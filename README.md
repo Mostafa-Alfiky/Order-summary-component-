@@ -1,12 +1,12 @@
-# Frontend Mentor - Order summary card solution
+# Order summary card solution
 
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/order-summary-component-NZCPJZw6z6)
+- Live Site URL: [live site URL here](https://mostafa-alfiky.github.io/Order-summary-component-/)
 
 ## My process
 
